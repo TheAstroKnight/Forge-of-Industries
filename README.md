@@ -1,9 +1,10 @@
 # Forge of Industries
 ### Forging the future
 
+
 ## About this mod (short version)
 Forge of Industries is a Minecraft mod filled with technological items.
-[BROKEN] Click [here](#) for the full version.
+[BROKEN] Click [here](#) for the full version. The full version is visible on the curse page of this mod.
 
 ## How do I create an Issue?
 Just follow these steps:
