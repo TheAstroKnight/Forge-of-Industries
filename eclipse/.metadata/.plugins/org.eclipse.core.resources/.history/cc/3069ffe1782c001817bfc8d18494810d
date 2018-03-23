@@ -1,0 +1,16 @@
+[
+{
+  "modid": "forgeofindustries",
+  "name": "Forge of Industries",
+  "description": "Recreating the industry of technology.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AstroKnight"],
+  "credits": "The Forge and FML guys, for making modding possible!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
